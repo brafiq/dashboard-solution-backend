@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+      "no-console": 0,
+      "no-plusplus": 0,
+      "no-await-in-loop": 0,
+      "max-len": 0,
+      "prefer-destructuring": 1,
+      "no-unused-vars": 1,
+      "global-require": 0
+    }
+}
